@@ -1,14 +1,14 @@
 <div align="center">
-  <img alt="Linetef logo" src="src/icons/icon.svg" width="150"/>
+  <img alt="TellesRuler logo" src="src/icons/icon.svg" width="150"/>
 </div>
 
-# Linetef
+# TellesRuler
 
-Linetef is a chrome extension and it's intention is to allow users to quickly add guide lines to either check if two elements are aligned, measure elements or check the distance between them.
+TellesRuler is a fork from Linetef, this is a chrome extension and it's intention is to allow users to quickly add guide lines to either check if two elements are aligned, measure elements or check the distance between them.
 
 ## Demo
 
-![Linetef chrome extension demo](graphics/demo.gif)
+![TellesRuler chrome extension demo](graphics/demo.gif)
 
 ## Features
 
